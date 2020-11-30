@@ -29,7 +29,7 @@
 
 ## Результаты
 
- Ссылки на баг-репорты
+ [баг-репорт](https://github.com/shubartsova/money-transfer/issues/1)
 
 ## Общие рекомендации
 
